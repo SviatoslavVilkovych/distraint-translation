@@ -8,4 +8,4 @@ Editing Distraint translation made by Tarasllg.
 3. В залежності від використовуваної версії гри (Deluxe Edition або ні) помістіть відповідно файл з розширенням `.ini` у папку `deluxe` або `legacy`.
 4. У грі оберіть мову **Русский**. На жаль, розробник поки не хоче додати українську як повноцінну, тому мусимо викручуватися як можемо.
 
-[translation example](transaltion_example.jpg).
+[translation example](translation_example.jpg).
